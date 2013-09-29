@@ -14,7 +14,7 @@ fi
 cat <<EOF
 
 The OLC command was deprecated in 2009 and may be removed completely
-in future releases.  
+in future releases.
 
 * To ask a question, please call 617-253-4435 or visit the Athena
   Consulting web page at: http://ist.mit.edu/support/olc
