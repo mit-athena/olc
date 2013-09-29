@@ -1,4 +1,4 @@
-debathena-olc (1.1-1) UNRELEASED; urgency=low
+debathena-olc (1.1-1) unstable; urgency=low
 
   [ Jonathan Reed ]
   * Switch from control.in to control (Trac: #561)
@@ -7,8 +7,10 @@ debathena-olc (1.1-1) UNRELEASED; urgency=low
 
   [ Alexander Chernyakhovsky ]
   * Convert olc to a non-native package
+  * Add git-buildpackage configuration
+  * Set source format to 3.0 (quilt)
 
- -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 04:10:55 -0400
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 04:16:44 -0400
 
 debathena-olc (1.0) unstable; urgency=low
 
